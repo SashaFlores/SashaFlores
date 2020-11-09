@@ -13,9 +13,11 @@ I have 6 years of experience in turning numbers into results. Stong interest in 
 
 💯 Currently learning Advanced Solidity in the last chapter of my educative journey at Columbia University .
 
-👀 Looking for the right opportunity in the FinTech field. Feel free to reach out to me for working togther or for just some interesting discussion.
+👀 Looking for the right opportunity in the FinTech field.
 
-⌨ How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
+📱  Feel free to reach out to me for working togther or for just some interesting discussion.
+
+💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
 
 
 

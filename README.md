@@ -36,6 +36,7 @@ I have 6 years of experience in turning numbers into results. Stong interest in 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashaflores&show_icons=true&locale=en" alt="sashaflores" /></p>
 
+⚡ <summary> Recent Activities </summary>
 
 
 

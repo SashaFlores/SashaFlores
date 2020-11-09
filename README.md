@@ -9,7 +9,7 @@
 
 I have 6 years of experience in turning numbers into results. Stong interest in **Cryptocurrency, Blockchain, Data Analysis, Machine Learning & Financial Modeling.**
 
-👩 An Accountant with a Bachelor of Accounting, GAAP & IFRS compliant, and a Certified QuickBooks ProAdvisor.
+👩 A Bachelor's degree of Accounting, GAAP & IFRS compliant, and a Certified QuickBooks ProAdvisor.
 
 💯 Currently learning Advanced Solidity in the last chapter of my educative journey at Columbia University .
 

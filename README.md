@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Sasha Flores</h1>
 <h3 align="center">A passionate Financial Analyst</h3>
 
-I have 6 years of experience in turning numbers into results. Stong interest in **Cryptocurrency, Blockchain, Data Analysis, Machine Learning & Financial Modeling.**
+I have 6 years of experience in turning numbers into results. Strong interest in **Cryptocurrency, Blockchain, Data Analysis, Machine Learning & Financial Modeling.**
 
 👩 A Bachelor's degree of Accounting, GAAP & IFRS compliant, and a Certified QuickBooks ProAdvisor.
 

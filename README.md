@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sasha Flores</h1>
+<h1 align="center">Hi 👋 I'm Sasha Flores</h1>
 <h3 align="center">A passionate Financial Analyst</h3>
 
 I have 6 years of experience in turning numbers into results. Strong interest in **Cryptocurrency, Blockchain, Data Analysis, Machine Learning & Financial Modeling.**
@@ -35,22 +35,3 @@ I have 6 years of experience in turning numbers into results. Strong interest in
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashaflores&show_icons=true&locale=en&layout=compact" alt="sashaflores" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashaflores&show_icons=true&locale=en" alt="sashaflores" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

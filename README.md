@@ -5,17 +5,14 @@
 
 
 <h1 align="center">Hi 👋 I'm Sasha Flores</h1>
-<h3 align="center">A passionate Financial Analyst</h3>
+<h3 align="center">A Certified Solidity Developer</h3>
 
-I have 6 years of experience in turning numbers into results. Strong interest in **Cryptocurrency, Blockchain, Data Analysis, Machine Learning & Financial Modeling.**
+I am a recent Financial Programmer graduate from Columbia Engineering and an Accountant for more than 7 years.
 
-👩 A Bachelor's degree of Accounting, GAAP & IFRS compliant, and a Certified QuickBooks ProAdvisor.
+👩 Bachelor's degree in Commerce.
+👩 Certified Solidity Developer.
+👩 Ethereum Blockchain Expert.
 
-💯 Currently learning Advanced Solidity in the last chapter of my educative journey at Columbia University .
-
-👀 Looking for the right opportunity in the FinTech field.
-
-📱  Feel free to reach out to me for working togther or for just some interesting discussion.
 
 💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
 

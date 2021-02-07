@@ -17,7 +17,7 @@ I am a recent Financial Programmer graduate from Columbia Engineering and an Acc
 💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
 
 
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sflores369"><a class="LI-simple-link" href='https://www.linkedin.com/in/sflores369?trk=profile-badge'>Sasha Flores</a></div>
 
 
 <h3 align="left">Connect with me:</h3>

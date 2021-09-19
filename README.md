@@ -5,14 +5,9 @@
 
 
 <h1 align="center"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sflores369"><a class="LI-simple-link" href='https://www.linkedin.com/in/sflores369?trk=profile-badge'>Sasha Flores</a></div></h1>
-<h3 align="center">A Certified Solidity Developer</h3>
+<h3 align="center">Hey visitor, Thank you for checking my profile</h3>
 
-I am a recent Financial Programmer graduate from Columbia Engineering and an Accountant for more than 7 years.
-
-👩 Bachelor's degree in Commerce.
-👩 Certified Solidity Developer.
-👩 Ethereum Blockchain Expert.
-
+My name is Sasha Flores, and I am a developer with keen interest in Blockchain technology.
 
 💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
 
@@ -23,7 +18,7 @@ I am a recent Financial Programmer graduate from Columbia Engineering and an Acc
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sflores369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sflores369" height="30" width="40" /></a>
-<a href="https://kaggle.com/sashaflores" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sashaflores" height="30" width="40" /></a>
+<a href="https://sashaflores.info/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sashaflores" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

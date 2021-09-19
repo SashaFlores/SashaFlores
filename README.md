@@ -9,7 +9,7 @@
 
 My name is Sasha Flores, I am a developer with keen interest in Blockchain technology, and an accountant with 7 years of experience.
 
-💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
+💻 How to reach me: you can email me at ask@sashaflores.info and I will get back to you as soon as I can.
 
 
 
@@ -22,7 +22,7 @@ My name is Sasha Flores, I am a developer with keen interest in Blockchain techn
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashaflores&show_icons=true&locale=en&layout=compact" alt="sashaflores" /></p>
 

@@ -7,7 +7,7 @@
 <h1 align="center"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sflores369"><a class="LI-simple-link" href='https://www.linkedin.com/in/sflores369?trk=profile-badge'>Sasha Flores</a></div></h1>
 <h3 align="center">Hey visitor, Thank you for checking my profile</h3>
 
-My name is Sasha Flores, and I am a developer with keen interest in Blockchain technology.
+My name is Sasha Flores, I am a developer with keen interest in Blockchain technology, and an accountant with 7 years of experience.
 
 💻 How to reach me: you can email me at sashaflores207@gmail.com and I will get back to you as soon as I can.
 

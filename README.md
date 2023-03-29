@@ -1,16 +1,10 @@
-![I am GitHub Readme Generator's creator](https://img3.goodfon.com/wallpaper/nbig/1/50/programmer-by-pcbots-java.jpg)
+<h1> Hi there 👋, I'm Sasha Flores. <h1>
 
 
+[![Sasha Flores Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sflores369/)
+[![Sasha Flores Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ariescoder.medium.com/)
 
-
-
-<h1 align="center"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sflores369"><a class="LI-simple-link" href='https://www.linkedin.com/in/sflores369?trk=profile-badge'>Sasha Flores</a></div></h1>
-<h3 align="center">Hey visitor, Thank you for checking my profile</h3>
-
-My name is Sasha Flores, I am a developer with keen interest in Blockchain technology, and an accountant with 7 years of experience.
-
-💻 How to reach me: you can email me at ask@sashaflores.info and I will get back to you as soon as I can.
-
+I'm a Smart Contract/Blockchain Developer, Web3 Advocate, & Junior Fullstack Engineer.
 
 
 <h3 align="left">Languages and Tools:</h3>

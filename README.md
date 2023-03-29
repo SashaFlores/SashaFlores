@@ -2,7 +2,7 @@
 
 
 [![Sasha Flores Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sflores369/)
-[![Sasha Flores Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ariescoder.medium.com/)
+[![Sasha Flores Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sasha-flores)
 
 I'm a Smart Contract/Blockchain Developer, Web3 Advocate, & Junior Fullstack Engineer.
 

@@ -34,7 +34,7 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
         <img src="./images/ethereum.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
     </a>
     <a>
-        <img src="./images/polygon_rounded.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
+        <img src="./images/polygon_more_rounded.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
     </a>
     <a>
         <img src="./images/avalanche.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />

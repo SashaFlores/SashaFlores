@@ -67,7 +67,7 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
 
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SashaFlores&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SashaFlores&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 

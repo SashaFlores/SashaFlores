@@ -31,11 +31,11 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
 <!-- Define one style to reuse -->
 <p align="center">
   <a>
-    <img src="./images/ethereum.png" style="width:52px; height:50px; border-radius:10px; margin-left:4px;" />
-    <img src="./images/polygon.png" style="width:52px; height:50px; border-radius:10px; margin-left:4px;" />
-    <img src="./images/avalanche.png" style="width:52px; height:50px; border-radius:10px; margin-left:4px;" />
-    <img src="./images/solana.png" style="width:52px; height:50px; border-radius:10px; margin-left:4px;" />
-    <img src="./images/starknet.png" style="width:52px; height:50px; border-radius:10px; margin-left:4px;" />
+    <img src="./images/ethereum.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
+    <img src="./images/polygon.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
+    <img src="./images/avalanche.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
+    <img src="./images/solana.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
+    <img src="./images/starknet.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
   </a>
 </p>
 

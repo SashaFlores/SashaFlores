@@ -30,22 +30,27 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
 ## ⛓️ Blockchains 
 <!-- Define one style to reuse -->
 <p align="center">
-    <a>
-        <img src="./images/ethereum.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
-    </a>
-    <a>
-        <img src="./images/polygon_more_rounded.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
-    </a>
-    <a>
-        <img src="./images/avalanche.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
-    </a>
-    <a>
-        <img src="./images/solana.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
-    </a>
-    <a>
-        <img src="./images/starknet.png" width="52" height="50" style="border-radius: 10px; margin-left: 4px;" />
-    </a>
+  <a>
+    <img src="./images/rounded_ethereum.png" style="width:52px; height:50px; margin-left:4px;" />
+    <img src="./images/rounded_polygon.png" style="width:52px; height:50px; margin-left:4px;" />
+    <img src="./images/rounded_avalanche.png" style="width:52px; height:50px; margin-left:4px;" />
+    <img src="./images/rounded_solana.png" style="width:52px; height:50px; margin-left:4px;" />
+    <img src="./images/rounded_starknet.png" style="width:52px; height:50px; margin-left:4px;" />
+  </a>
 </p>
+
+## ⛓️ Blockchains2
+<!-- Define one style to reuse -->
+<p align="center">
+  <a>
+    <img src="./images/rounded_ethereum.png" style="margin-right: 5px;">
+    <img src="./images/rounded_polygon.png" style="margin-right: 5px;">
+    <img src="./images/rounded_avalanche.png" style="margin-right: 5px;">
+    <img src="./images/rounded_solana.png" style="margin-right: 5px;">
+    <img src="./images/rounded_starknet.png" style="margin-right: 5px;">
+  </a>
+</p>
+
 
 
 ## 📟 Operating Systems & Shells

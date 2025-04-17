@@ -32,11 +32,11 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
 <!-- Define one style to reuse -->
 <p align="center">
   <a>
-    <img src="./images/rounded_ethereum.png" style="margin-right: 1px;">
-    <img src="./images/rounded_polygon.png" style="margin-right: 10px;">
-    <img src="./images/rounded_avalanche.png" style="margin-right: 10px;">
-    <img src="./images/rounded_solana.png" style="margin-right: 10px;">
-    <img src="./images/rounded_starknet.png" style="margin-right: 10px;">
+    <img src="./images/rounded_ethereum.png" style="margin-right: 20px;">
+    <img src="./images/rounded_polygon.png" style="margin-right: 20px;">
+    <img src="./images/rounded_avalanche.png" style="margin-right: 20px;">
+    <img src="./images/rounded_solana.png" style="margin-right: 20px;">
+    <img src="./images/rounded_starknet.png" style="margin-right: 20px;">
   </a>
 </p>
 

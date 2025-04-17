@@ -31,10 +31,10 @@ Sasha is a Smart Contract Engineer and Security Researcher, currently serving as
 
 <!-- Define one style to reuse -->
 <p align="center">
-  <img src="./images/rounded_ethereum.png">&nbsp;&nbsp;
-  <img src="./images/rounded_polygon.png">&nbsp;&nbsp;
-  <img src="./images/rounded_avalanche.png">&nbsp;&nbsp;
-  <img src="./images/rounded_solana.png">&nbsp;&nbsp;
+  <img src="./images/rounded_ethereum.png">&nbsp;
+  <img src="./images/rounded_polygon.png">&nbsp;
+  <img src="./images/rounded_avalanche.png">&nbsp;
+  <img src="./images/rounded_solana.png">&nbsp;
   <img src="./images/rounded_starknet.png">
 </p>
 

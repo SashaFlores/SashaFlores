@@ -1,4 +1,4 @@
-[linkedIn-shield]: https://img.shields.io/badge/LinkedIn-881-white.svg?style=social&logo=linkedin
+[linkedIn-shield]: https://img.shields.io/badge/LinkedIn-899-white.svg?style=social&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/sflores369/
 [medium-shield]: https://img.shields.io/badge/Medium-10-white.svg?style=social&logo=medium
 [medium-url]: https://medium.com/@sahaflores
